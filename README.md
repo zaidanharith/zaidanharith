@@ -2,13 +2,13 @@
 
 - 🏫 I'm an Undergraduate Student of Information Engineering at Universitas Gadjah Mada, Yogyakarta
 
-## 🎧 Spotify Now Playing
+## 🎧 Now Listening:
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&redirect=true)
 
-## 🌐 Socials:
+## 🌐 Get In Touch:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zaidanharith_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidanharith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidanharith) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaidanharith) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myharithzaidan@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zaidanharith27/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidanharith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidanharith) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaidanharith_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myharithzaidan@gmail.com)
 
 ## 💻 Tech Stack:
 
@@ -20,14 +20,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=zaidanharith&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanharith&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo:
 
 ![](https://github-contributor-stats.vercel.app/api?username=zaidanharith&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=zaidanharith&icon=0&color=0)](https://visitcount.itsvg.in)
