@@ -27,3 +27,17 @@
 ## 🔝 Top Contributed Repo:
 
 ![](https://github-contributor-stats.vercel.app/api?username=zaidanharith&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+
+## 🛝 Playground:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output/github-snake.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output/pacman-contribution-graph.svg">
+</picture>
