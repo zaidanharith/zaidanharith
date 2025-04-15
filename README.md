@@ -8,7 +8,26 @@
 
 ## 🌐 Get In Touch:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/zaidanharith27/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zaidanharith_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zaidanharith) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zaidanharith_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:myharithzaidan@gmail.com)
+<div align="left">
+  <a href="https://linkedin.com/in/zaidanharith" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/zaidanharith_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/zaidanharith_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://discordapp.com/users/762456331587289138" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+  </a>
+  <a href="https://www.facebook.com/zaidanharith27/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://medium.com/@zaidanharith" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo"  />
+  </a>
+</div>
 
 ## 💻 Tech Stack:
 
@@ -22,7 +41,7 @@
 
 ## ✍️ Random Quote:
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nightowl)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=nightowl)
 
 ## 🔝 Top Contributed Repo:
 
