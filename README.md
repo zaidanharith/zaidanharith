@@ -1,33 +1,33 @@
-# Hello 👋, I'm **Zaidan Harith**!
+# Hello👋, I'm **Zaidan Harith**!
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=0096C7&random=false&width=435&lines=%F0%9F%92%A4+Dreams...;%E2%9C%A8+Are...;%F0%9F%99%8B+Mine!" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=0096C7&random=false&width=435&lines=%F0%9F%92%A4+Dreams...;%E2%9C%A8+Are...;%F0%9F%99%8B+Mine!" alt="Typing SVG" />
 
-- 🏫 I'm an Undergraduate Student of Information Engineering at Universitas Gadjah Mada, Yogyakarta
+- 🏫 I'm an Undergraduate Student of [Information Engineering at Universitas Gadjah Mada](https://sarjana.jteti.ugm.ac.id/program-sarjana/program-studi-teknologi-informasi/), Yogyakarta.
 
 ## 🎧 Now Listening
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&cover_image=true&theme=default&show_offline=true&background_color=212121&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&cover_image=true&theme=default&show_offline=false&background_color=212121&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ltai7a017f2942mmq0i56l9fn&redirect=true)
 
 ## 🌐 Get in Touch
 
 <div align="left">
   <a href="https://linkedin.com/in/zaidanharith" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" style="text-decoration=none"/>
   </a>
   <a href="https://instagram.com/zaidanharith_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo" style="text-decoration=none"/>
   </a>
   <a href="https://x.com/zaidanharith_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="30" alt="twitter logo" style="text-decoration=none"/>
   </a>
   <a href="https://discordapp.com/users/762456331587289138" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo" style="text-decoration=none"/>
   </a>
   <a href="https://www.facebook.com/zaidanharith27/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="42" height="30" alt="facebook logo"style="text-decoration=none" /> 
   </a>
   <a href="https://medium.com/@zaidanharith" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="42" height="30" alt="medium logo" style="text-decoration=none"/>
   </a>
 </div>
 
@@ -37,17 +37,18 @@
 
 ## 🛝 Playground
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_snake/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_snake/github-snake.svg" />
-</picture>
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_snake/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_snake/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_snake/github-snake.svg" />
+  </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_pacman/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_pacman/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_pacman/pacman-contribution-graph.svg">
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zaidanharith/zaidanharith/output_pacman/pacman-contribution-graph.svg">
+  </picture>
 
 ## ✍️ Quote of The Day
 
